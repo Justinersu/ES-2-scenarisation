@@ -1,61 +1,12 @@
-# docsify-modele-classique
-modèle de page docsify pour une publication via page sans actions 
+# Scénarisation d'un projet multimédia
 
+## Concept
+Dans une installation interactive divisée en deux pièces, deux utilisateurs sont chacun devant un clavier tactile. Lorsqu'un utilisateur appuie sur une touche, une lumière s'illumine sur le clavier de l'autre. Si les deux utilisateurs touchent la même touche, une note de musique résonne dans les deux espaces.
 
-## Personalisation
+## Objectif
+L'objectif est simple : écrire un mot ensemble. Chaque pression sur une touche doit être réfléchie et enchaînée pour créer une harmonie. Lorsqu'ils parviennent à composer un mot successif, une douce mélodie retentit, les encourageant à continuer.
 
-### index.html
-
-#### meta
-
-Est utilisée pour inclure des métadonnées, comme des descriptions ou des informations relatives au contenu de la page, sans les afficher directement aux utilisateurs.
-
-```html
-
-<meta name="description" content="Modèle docsify pour publication classique">
-
-```
-
-#### title
-Définit le titre de la page qui s'affiche dans l'onglet du navigateur et est utilisé par les moteurs de recherche comme le titre principal dans les résultats de recherche.
-
-```html
-<title>Modèle docsify pour publication classique</title>
-```
-
-
-
-
-#### window.$docsify 
-
-##### name
-
-Titre de la page affiché dans la barre de coté
-
-```html
-name: 'Modèle Docsify Classique',
-```
-
-##### repo
-
-Lien vers le repository git du projet à documenter, cliquable depuis l'icone dans la barre de coté
-
-```html
-repo: 'https://github.com/gllmAR/docsify-modele-classique',
-```
-
-
-#### CSS (optionnelle)
-
-Source et lien vers style CSS lié  [gllmAR/docsify-simple-style](https://github.com/gllmAR/docsify-simple-style/)
-
-
-```html
-<style>
-    :root {
-        --theme-hue:2;
-        --theme-brightness:60%;
-    }
+La tension monte alors qu'ils tentent de synchroniser leurs gestes, découvrant la magie de la collaboration à travers la musique et la lumière. La pièce se remplit de joie et d’énergie, transformant un simple mot en une véritable œuvre d’art collective.
 </style>
 ```
 
