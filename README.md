@@ -8,3 +8,12 @@ L'objectif est simple : écrire un mot ensemble. Chaque pression sur une touche 
 
 La tension monte alors qu'ils tentent de synchroniser leurs gestes, découvrant la magie de la collaboration à travers la musique et la lumière. La pièce se remplit de joie et d’énergie, transformant un simple mot en une véritable œuvre d’art collective.
 </style>
+
+````mermaid
+graph TD;
+    A[Utilisateur 1] -->B{Appuie sur une touche}
+    B --> F[Lumière s'illumine sur le clavier 2]
+    E --> |Même touche?| C[Note de musique résonne dans les deux pièces]
+    B --> |Même touche?| C[Note de musique résonne dans les deux pièces]
+    D[Utilisateur 2] -->E{Appuie sur une touche}
+    E --> G[Lumière s'illumine sur le clavier 1]
