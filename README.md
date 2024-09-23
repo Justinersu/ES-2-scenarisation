@@ -8,6 +8,3 @@ L'objectif est simple : écrire un mot ensemble. Chaque pression sur une touche 
 
 La tension monte alors qu'ils tentent de synchroniser leurs gestes, découvrant la magie de la collaboration à travers la musique et la lumière. La pièce se remplit de joie et d’énergie, transformant un simple mot en une véritable œuvre d’art collective.
 </style>
-```
-
-
