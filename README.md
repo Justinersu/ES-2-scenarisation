@@ -13,6 +13,7 @@ graph TD;
     B --> |Même touche?| C
     D[Utilisateur 2] -->E{Appuie sur une touche}
     E --> G[Lumière s'illumine sur le clavier 1]
+````
 
 ### Objectif
 L'objectif est simple : écrire un mot ensemble. Chaque pression sur une touche doit être réfléchie et enchaînée pour créer une harmonie. Lorsqu'ils parviennent à composer un mot successif, une douce mélodie retentit, les encourageant à continuer.
