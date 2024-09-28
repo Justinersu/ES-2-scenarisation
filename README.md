@@ -22,8 +22,25 @@ La tension monte alors qu'ils tentent de synchroniser leurs gestes, découvrant 
 
 ## Moodboard
 
-### Visuel
+### Palette de couleurs
+![palette](images/palette_de_couleurs.jpg)
 
-### Sonore
+### Pièces
+![piece](images/moodboard_piece.png)
+
+- Éclairages neutres (blanc/beige) tout autour de la pièce pour mettre l'emphase sur le clavier
+- Murs et sols complètement noirs pour encore une fois poser l'attention sur le clavier
+- Les pièces sont séparées par un rideau à peine translucent pour laisser faiblement paraître les mouvements de l'autre personne et reproduire une certaine intimité
+
+### Clavier tactile
+![clavier](images/moodboard_clavier.png)
+
+- Le clavier tactile est posé sur un piédestal avec un fond rose
+- Les touches s'illumine avec un éclairage bleu et un effet flou lorsque appuyées
+- Si elles sont appuyées en même temps par les deux utilisateurs, elles s'illuminent en rose
+- Choix du rose et des effets flous pour reproduire la connection humaine 
+
+### Audio
+
 
 ## Technologie
