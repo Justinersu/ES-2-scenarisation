@@ -59,9 +59,11 @@ La tension monte alors qu'ils tentent de synchroniser leurs gestes, découvrant 
 ### Matériaux
 - 8-12 Lumières LED
 - 1 grand rideau translucent
-- 26 [M5 Unit Keys](https://shop.m5stack.com/products/mechanical-key-button-unit)
+- 52 [M5 Unit Keys](https://shop.m5stack.com/products/mechanical-key-button-unit)
 - 2 [Atom Lite ESP32](https://shop.m5stack.com/products/atom-lite-esp32-development-kit)
 - 2 [ATOM PoE](https://docs.m5stack.switch-science.com/en/atom/atom_poe)
+- 2 [Atom RS485](https://shop.m5stack.com/products/atom-rs485-kit?variant=34787900194980)
+- x2 26 touches de clavier pour chaque lettres de l'alphabet
 - 2 piédestals
 - 8 haut-parleurs
 
