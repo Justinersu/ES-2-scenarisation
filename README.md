@@ -42,7 +42,12 @@ La tension monte alors qu'ils tentent de synchroniser leurs gestes, découvrant 
 - Choix du rose et des effets flous pour reproduire la connection humaine 
 
 ### Audio
-[Peaceful Solitude - Eternal Warriors](https://www.youtube.com/watch?v=K0EITpmtfZ0)
+[Peaceful Solitude - Eternal Warriors](https://www.youtube.com/watch?v=K0EITpmtfZ0)<br>
+- Les notes de musique sont mêlées à la musique d'ambiance
+- Notes qui jouent en boucle
 
+[Cosmic Harmony - Connectionist](https://www.youtube.com/watch?v=vYFaDiqx-e8)
+- Musique d'ambiance relaxante pour
+- Simple afin de mettre de l'avant les notes qui jouent lorsque les utilisateurs appuient sur la même touche
 
 ## Technologie
