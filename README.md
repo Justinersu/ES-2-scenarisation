@@ -5,6 +5,7 @@
 ### Concept
 Dans une installation interactive divisée en deux pièces, deux utilisateurs sont chacun devant un clavier tactile. Lorsqu'un utilisateur appuie sur une touche, une lumière s'illumine sur le clavier de l'autre. Si les deux utilisateurs touchent la même touche, une note de musique résonne dans les deux espaces.
 
+### Schéma
 ````mermaid
 graph TD;
     A[Utilisateur 1] -->B{Appuie sur une touche}
@@ -41,6 +42,7 @@ La tension monte alors qu'ils tentent de synchroniser leurs gestes, découvrant 
 - Choix du rose et des effets flous pour reproduire la connection humaine 
 
 ### Audio
+[Peaceful Solitude - Eternal Warriors](https://www.youtube.com/watch?v=K0EITpmtfZ0)
 
 
 ## Technologie
