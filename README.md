@@ -18,6 +18,7 @@ graph TD;
 ````
 
 ### Schéma
+<img src="./images/schema_interaction_1.jpg" width="500"> <img src="./images/schema_interaction_2.jpg" width="500">
 
 ### Objectif
 L'objectif est simple : écrire un mot ensemble. Chaque pression sur une touche doit être réfléchie et enchaînée pour créer une harmonie. Lorsqu'ils parviennent à composer un mot successif, une douce mélodie retentit, les encourageant à continuer.
@@ -50,8 +51,8 @@ La tension monte alors qu'ils tentent de synchroniser leurs gestes, découvrant 
 - Notes qui jouent en boucle
 
 [Cosmic Harmony - Connectionist](https://www.youtube.com/watch?v=vYFaDiqx-e8)
-- Musique d'ambiance relaxante pour
-- Simple afin de mettre de l'avant les notes qui jouent lorsque les utilisateurs appuient sur la même touche
+- Musique d'ambiance relaxante
+- Musique de fond simple afin de mettre de l'avant les notes qui jouent lorsque les utilisateurs appuient sur la même touche
 
 ## Technologie
 
